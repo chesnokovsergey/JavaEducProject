@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="JavaEduc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaEduc_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JavaEduc.jar">
+        <element id="module-output" name="JavaEduc" />
+      </element>
+      <element id="library" level="project" name="sqljdbc4" />
+    </root>
+  </artifact>
+</component>
